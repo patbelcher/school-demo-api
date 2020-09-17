@@ -1,0 +1,12 @@
+/*
+write a loop ah outputs 
+#
+##
+###
+####
+#####
+
+
+Output the numbers 1 - 100, except that any number that is divisibel by 3, output Fizz, and any numbe rdivisble by 5 output buzz
+
+*/
